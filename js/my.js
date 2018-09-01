@@ -92,4 +92,9 @@ $(function(){
 			}
 		  })        
 	})();
-	
+		;(function(){	
+			$('.con8 ul li').hover(function(e) {
+                $(this).children().toggle()
+            });
+		
+		})();

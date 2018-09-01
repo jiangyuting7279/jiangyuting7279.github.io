@@ -194,6 +194,28 @@ img{vertical-align: middle;}
 
 
 
+/*第八屏*/
+.con8{background: url(../images/bg.png);overflow: hidden;}
+.con8 .wrap h2 .title2{top: 175px;}
+.con8 .girl{width: 587px;height: 809px;position: absolute;right: 0;bottom: 0;}
+.con8 .wrap .zhaopian{width: 233px;height: 254px;background: #fbbf05;border-radius:16px;position: absolute;left: 0;top: 0;right: 0;bottom: 0;margin: auto;margin-left: 0;margin-top: 365px;}
+.con8 .wrap .kuang{width: 485px;height: 350px;border: 5px solid #fbbf05;position: absolute;left: 0;bottom: 0;top: 0;right: 0;margin: auto;margin-left: 125px;margin-top: 310px;}
+.con8 .wrap .kuang img{position: absolute;bottom: 0;top: 0;left: 0;right: 0;margin: auto;margin-left: 330px;}
+.con8 .wrap ul{position: absolute;left: 0;top: 0;bottom: 0;right: 0;margin: auto;margin-bottom: 100px;height: 113px;}
+.con8 .wrap ul li{width: 130px;height: 113px;float: left;margin-left: 200px;line-height: 113px;position: relative;transition:all 1s;}
+.con8 .wrap ul li img{position: absolute;left: 0;bottom: 0;top: 0;right: 0;margin: auto;}
+.con8 .wrap ul li:nth-of-type(2) img:last-of-type{display: none;}
+.con8 .wrap ul li p{position: absolute;left: 0;bottom: 0;right: 0;top: 0;margin: auto;font-size: 26px;display: none;}
+.con8 .wrap ul li:nth-of-type(1) p{margin-left: -50px;}
+
+
+
+
+
+
+
+
+
 
 
 

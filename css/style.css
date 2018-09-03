@@ -211,7 +211,14 @@ img{vertical-align: middle;}
 
 
 
+/*背景音乐*/
+.audio{width: 60px;height: 60px;border-radius:50%;background: rgb(252, 253, 253);position: absolute;right: 30px;top: 5px;z-index: 999;animation:zhuan 2s infinite linear paused;}
+.audio img{width: 100%;height: auto;}
 
+@keyframes zhuan{	
+	0%{transform:rotate(0)}
+	100%{transform:rotate(360deg)}
+}
 
 
 

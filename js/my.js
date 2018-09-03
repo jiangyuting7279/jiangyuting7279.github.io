@@ -98,3 +98,16 @@ $(function(){
             });
 		
 		})();
+		$('.audio').click(function(e) {
+    if($('audio').get(0).paused == true){	
+		$(this).css('animation-play-state','running')
+		$('audio').get(0).play()
+	}else{	
+		$(this).css('animation-play-state','paused')
+		$('audio').get(0).pause()
+	}
+	
+	
+	
+	
+});

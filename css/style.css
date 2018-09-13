@@ -150,7 +150,7 @@ img{vertical-align: middle;}
 /*第五屏*/
 .con5{background: url(../images/bg.png);overflow: hidden;}
 .con5 .wrap h2 .title2{top: 100px;left: -20px;}
-.con5 .app{width: 1200px;left: 0;bottom: 0;top: 0;right: 0;margin-top: 213px;box-shadow:0 0 5px rgba(0,0,0,0.35);}
+.con5 .app{width: 1200px;left: 0;bottom: 0;top: 0;right: 0;margin-top: 213px;}
 .con5 .app .swiper-slide img{width: 240px;height: auto;}
 .con5 .swiper-button-prev,.con5 .swiper-container-rtl .swiper-button-next,.con5 .swiper-button-next,.con5 .swiper-container-rtl .swiper-button-prev{width: 40px;height: 40px;border-radius:50%;background: rgba(255,255,255,0.51);line-height: 40px;text-align: center;}
 
